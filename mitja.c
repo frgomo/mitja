@@ -12,7 +12,7 @@ int main() {
 		scanf("%f",&nou_valor);
 		suma=suma+nou_valor;
 		numero_repeticions=numero_repeticions+1;
-		printf("Vols continuar (s/n): ");
+		printf("Volss continuar (s/n): ");
 		scanf("%s",&consulta);
 	}
 	mitja=suma/numero_repeticions;
